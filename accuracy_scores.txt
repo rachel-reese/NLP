@@ -1,0 +1,2 @@
+logistic regression accuracy score: 0.6048109965635738
+random forest accuracy score: 0.718213058419244
